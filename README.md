@@ -12,7 +12,7 @@ The setups steps expect following tools installed on the system.
 ##### 1. Check out the repository
 
 ```bash
-git clone https://github.com/pavlomarii/Rails_Alpha_Blog.git
+git clone https://github.com/pavlomarii/Rails_Message_Me.git
 ```
 
 ##### 2. Install dependencies
